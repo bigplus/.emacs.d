@@ -1,0 +1,207 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/yp-tc-m-2505/.emacs.d/savefile/recentf" . 7146)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-org.el" . 5456)
+ ("/Users/yp-tc-m-2505/backup/.emacs" . 14062)
+ ("/Users/yp-tc-m-2505/.emacs.d/init.el" . 7635)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/core/prelude-custom.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d/core/prelude-packages.el" . 1726)
+ ("/Users/yp-tc-m-2505/.emacs.d/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/elpa"))
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/elpa/fringe-current-line-readme.txt"))
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/fringe-current-line-readme.txt" . 473)
+ ("/Users/yp-tc-m-2505/Downloads/2142.txt" . 31250)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/prelude-custom.el" . 2913)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/prelude-core.el" . 5548)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-col-highlight.el" . 219)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/prelude-global-keybindings.el" . 1117)
+ ("/Users/yp-tc-m-2505/org/java-tmp2.java" . 1656)
+ ("/Users/yp-tc-m-2505/org/java-tmp1.java" . 17202)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/col-highlight-20150104.2134/col-highlight-autoloads.el" . 3446)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/vline-20120108.1245/vline-autoloads.el" . 1118)
+ ("/Users/yp-tc-m-2505/Desktop/mr/doggie/doggie-client/pom.xml" . 1701)
+ ("/Users/yp-tc-m-2505/org/aa" . 13)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-java.el" . 10)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-nxml.el" . 831)
+ ("/Users/yp-tc-m-2505/.emacs.d/personal/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/personal/.gitkeep"))
+ ("/Users/yp-tc-m-2505/org/my-github.org" . 376)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/gitconfig-mode-20150316.1434/gitconfig-mode-autoloads.el" . 564)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/helm-20150317.538/helm-autoloads.el" . 35865)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/projectile-20150316.1130/projectile-autoloads.el" . 8287)
+ ("/Users/yp-tc-m-2505/Desktop/a.txt" . 1936)
+ ("/Users/yp-tc-m-2505/Desktop/all_cus.csv" . 2311273)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-gold-ratio.el" . 148)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-auto-complete.el" . 3322)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/golden-ratio-20150306.956/golden-ratio-autoloads.el" . 898)
+ ("/Users/yp-tc-m-2505/.bash_profile" . 584)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/ace-window-20150315.457/ace-window-autoloads.el" . 2818)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/anaconda-mode-20150313.655/anaconda-mode-autoloads.el" . 789)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/anzu-20150305.553/anzu-autoloads.el" . 1428)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/concurrent-20150309.2052/concurrent-autoloads.el" . 228)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/dash-20150311.2355/dash-autoloads.el" . 217)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/deferred-20150309.2052/deferred-autoloads.el" . 225)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/dired+-20150307.440/dired+-autoloads.el" . 65857)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/flycheck-20150307.728/flycheck-autoloads.el" . 7785)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/gist-20150308.435/gist-autoloads.el" . 1706)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/git-timemachine-20150310.456/git-timemachine-autoloads.el" . 417)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/grizzl-20150312.1043/grizzl-autoloads.el" . 1953)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/helm-ag-20150315.2156/helm-ag-autoloads.el" . 728)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/helm-projectile-20150315.527/helm-projectile-autoloads.el" . 1861)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/ibuffer-vc-20150303.125/ibuffer-vc-autoloads.el" . 759)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/jedi-20150308.517/jedi-autoloads.el" . 922)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/multiple-cursors-20150307.2322/multiple-cursors-autoloads.el" . 7606)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/ov-20150311.2228/ov-autoloads.el" . 777)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/popup-20150315.612/popup-autoloads.el" . 219)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/popwin-20150315.600/popwin-autoloads.el" . 2305)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/python-environment-20150310.153/python-environment-autoloads.el" . 310)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/rich-minority-20150305.516/rich-minority-autoloads.el" . 1136)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/smart-mode-line-20150312.1736/smart-mode-line-autoloads.el" . 1877)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/zenburn-theme-20150315.1540/zenburn-theme-autoloads.el" . 449)
+ ("/Users/yp-tc-m-2505/Desktop/doggie-engine/WEB-INF/classes/beans.xml" . 4378)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_prucell/lisp"))
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-nxml.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-nxml.el" . 1278)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-fill-column-indicator.el" . 49)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/fill-column-indicator-readme.txt" . 7180)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/fill-column-indicator-20140509.1101/fill-column-indicator-autoloads.el" . 1169)
+ ("/Users/yp-tc-m-2505/org/24.org" . 1652)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/auto-complete-20150225.715/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/elpa/auto-complete-20150225.715/auto-complete.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/auto-complete-20150225.715/auto-complete.el" . 9103)
+ ("/Users/yp-tc-m-2505/.mavenrc" . 82)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-exec-path.el" . 321)
+ ("/Users/yp-tc-m-2505/org/tt.py" . 44159)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/csv-mode-1.2/csv-mode-autoloads.el" . 2150)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/elpa/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_prucell/elpa/coffee-mode-20150226.912"))
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/elpa/coffee-mode-20150226.912/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_prucell/elpa/coffee-mode-20150226.912/coffee-mode-autoloads.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d/ac-dict/python-mode" . 1291)
+ ("/Users/yp-tc-m-2505/.emacs.d/ac-dict/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/ac-dict/python-mode"))
+ ("/Users/yp-tc-m-2505/.emacs.d_starter_kit/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa"))
+ ("/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/better-defaults-0.1.2"))
+ ("/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/better-defaults-0.1.2/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/better-defaults-0.1.2/better-defaults.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/better-defaults-0.1.2/better-defaults.el" . 2733)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-custom.el" . 2852)
+ ("/Users/yp-tc-m-2505/public_html/"
+  (dired-filename . "/Users/yp-tc-m-2505/public_html/abc.html"))
+ ("/Users/yp-tc-m-2505/public_html/abc.html" . 462)
+ ("/Users/yp-tc-m-2505/org/yyy.html" . 1120)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/find-file-in-project-20141214.1952/find-file-in-project-autoloads.el" . 887)
+ ("/Users/yp-tc-m-2505/org/"
+  (dired-filename . "/Users/yp-tc-m-2505/org/.DS_Store"))
+ ("/Users/yp-tc-m-2505/.emacs.d/snippets/fundamental-mode/sout" . 133)
+ ("/Users/yp-tc-m-2505/.emacs.d/snippets/fundamental-mode/Copyright" . 356)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/yasnippet-20150212.240/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/elpa/yasnippet-20150212.240/snippets"))
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/yasnippet-20150212.240/snippets/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/elpa/yasnippet-20150212.240/snippets/python-mode"))
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/yasnippet-20150212.240/snippets/python-mode/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/elpa/yasnippet-20150212.240/snippets/python-mode/for"))
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/yasnippet-20150212.240/snippets/fundamental-mode/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/elpa/yasnippet-20150212.240/snippets/fundamental-mode/.yas-setup.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d/snippets/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/snippets/fundamental-mode"))
+ ("/Users/yp-tc-m-2505/.emacs.d/snippets/fundamental-mode/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/snippets/fundamental-mode/.yas-setup.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d/snippets/java-mode/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/snippets/java-mode/println"))
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-guide-key.el" . 803)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/guide-key-20150107.2235/guide-key-autoloads.el" . 896)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-minimap.el" . 68)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-goto-last-change.el" . 25)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/minimap-readme.txt"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/elpa/minimap-readme.txt"))
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/minimap-20150108.1615/minimap-autoloads.el" . 559)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/goto-last-change-20150109.1023/goto-last-change-autoloads.el" . 761)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-multiple-cursors.el" . 495)
+ ("/Users/yp-tc-m-2505/.emacs.d/snippets/text-mode/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/snippets/text-mode/.yas-parents"))
+ ("/Users/yp-tc-m-2505/.emacs.d/snippets/org-mode/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/snippets/org-mode/figure"))
+ ("/Users/yp-tc-m-2505/org/ttt.org" . 138)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-yasnippet.el" . 440)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/auto-complete-20150225.715/auto-complete-config.el" . 19579)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/auto-complete-20150225.715/auto-complete-autoloads.el" . 1833)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/yasnippet-20150212.240/yasnippet-autoloads.el" . 1512)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/ace-jump-buffer-20150214.2234/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/elpa/ace-jump-buffer-20150214.2234/ace-jump-buffer-autoloads.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d/core/prelude-editor.el" . 3405)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/elpa/highlight-symbol-20140923.729/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_prucell/elpa/highlight-symbol-20140923.729/highlight-symbol-autoloads.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/elpa/highlight-quoted-20140916.1122/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_prucell/elpa/highlight-quoted-20140916.1122/highlight-quoted-autoloads.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/archives/gnu/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/archives/gnu/archive-contents"))
+ ("/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/archives/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/archives/marmalade"))
+ ("/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/archives/marmalade/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_starter_kit/elpa/archives/marmalade/archive-contents"))
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-elpa.el" . 2080)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-package.el" . 490)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-dired.el" . 58)
+ ("/usr/local/Cellar/emacs/24.4/share/emacs/24.4/etc/HELLO" . 62)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-auto-complete.el" . 731)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-cat.el" . 669)
+ ("/Users/yp-tc-m-2505/.emacs.d/vendor/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/vendor/.gitkeep"))
+ ("/Users/yp-tc-m-2505/.emacs.d/var/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/var/pcache"))
+ ("/Users/yp-tc-m-2505/.emacs.d/var/pcache/" . 204)
+ ("/Users/yp-tc-m-2505/.emacs.d/themes/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/themes/.gitkeep"))
+ ("/Users/yp-tc-m-2505/.emacs.d/utils/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/utils/installer.sh"))
+ ("/Users/yp-tc-m-2505/.emacs.d/personal/preload/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/personal/preload/.gitkeep"))
+ ("/Users/yp-tc-m-2505/.emacs.d/modules/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/modules/prelude-c.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d/core/prelude-osx.el" . 2289)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/backups/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_prucell/backups/!Users!yp-tc-m-2505!.emacs.d!ido.last~"))
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/auto-save-list/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_prucell/auto-save-list/.saves-15858-yp-tc-m-2505deMacBook-Air.local~"))
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/var/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d_prucell/var/pcache"))
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-lisp.el" . 287)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/init.el" . 4719)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-fonts.el" . 2575)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-isearch.el" . 361)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-ibuffer.el" . 502)
+ ("/Users/yp-tc-m-2505/.emacs~"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs~"))
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-sessions.el" . 903)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-windows.el" . 2819)
+ ("/Users/yp-tc-m-2505/backup/.emacs.d/elpa/"
+  (dired-filename . "/Users/yp-tc-m-2505/backup/.emacs.d/elpa/yasnippet-readme.txt"))
+ ("/Users/yp-tc-m-2505/backup/.emacs.d/"
+  (dired-filename . "/Users/yp-tc-m-2505/backup/.emacs.d/site-lisp"))
+ ("/Users/yp-tc-m-2505/backup/.emacs.d/site-lisp/"
+  (dired-filename . "/Users/yp-tc-m-2505/backup/.emacs.d/site-lisp/window-numbering"))
+ ("/Users/yp-tc-m-2505/backup/.emacs.d/site-lisp/window-numbering/window-numbering.el" . 4281)
+ ("/Users/yp-tc-m-2505/backup/.emacs.d/site-lisp/window-numbering/"
+  (dired-filename . "/Users/yp-tc-m-2505/backup/.emacs.d/site-lisp/window-numbering/window-numbering.el"))
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/window-number-20140124.302/window-number-autoloads.el" . 243)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/switch-window-20150114.215/switch-window-autoloads.el" . 612)
+ ("/Users/yp-tc-m-2505/.emacs.d/core/init-ibuffer-vc.el" . 570)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/nyan-mode-20150128.1218/nyan-mode-autoloads.el" . 955)
+ ("/Users/yp-tc-m-2505/.emacs.d/sample/"
+  (dired-filename . "/Users/yp-tc-m-2505/.emacs.d/sample/prelude-modules.el"))
+ ("/Users/yp-tc-m-2505/org/bigdata/"
+  (dired-filename . "/Users/yp-tc-m-2505/org/bigdata/es-cluster.org"))
+ ("/Users/yp-tc-m-2505/org/fonts/"
+  (dired-filename . "/Users/yp-tc-m-2505/org/fonts/.DS_Store"))
+ ("/usr/local/Cellar/emacs/24.4/share/emacs/24.4/etc/NEWS" . 6072)
+ ("/Users/yp-tc-m-2505/.emacs.d_prucell/lisp/init-ido.el" . 891)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/helm-descbinds-20140122.2158/helm-descbinds-autoloads.el" . 1163)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/async-20150203.2127/async-autoloads.el" . 2530)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/vkill-20091203.1022/vkill-autoloads.el" . 219)
+ ("/Users/yp-tc-m-2505/.emacs.d/elpa/exec-path-from-shell-20141212.846/exec-path-from-shell-autoloads.el" . 1252))

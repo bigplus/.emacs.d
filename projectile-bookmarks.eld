@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/" "~/Desktop/mr/doggie/" "/usr/local/" "~/Desktop/doggie/doggie-core/" "~/Desktop/xxxxxxxxxxx/spring-security-rest-full/" "~/.emacs.d_prucell/" "~/.emacs.d_starter_kit/")

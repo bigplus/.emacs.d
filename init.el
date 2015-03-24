@@ -133,23 +133,25 @@ by Prelude.")
  (run-at-time 5 nil 'prelude-tip-of-the-day))
 
 ;; -------------------------------------------------------- 自娱自乐 ---------------
+;; Jerry-Custom Start
+(require 'init-custom)
+;; Jerry-Custom Stop
+
+;;; 添加多光标 multiple-cursors
+(require 'init-multiple-cursors)
 
 ;; 默认开启，窗口的前进后退
 (when (fboundp 'winner-mode)
   (winner-mode 1))
 
 ;; --------------------------------------------------------------------------------
-(require 'prelude-python)
+;(require 'prelude-python)
 
 ;; 激活其他的 emacs 资源
 (require 'init-package)
 
 ;; helm 激活
 (require 'prelude-helm-everywhere)
-
-;; Jerry-Custom Start
-(require 'init-custom)
-;; Jerry-Custom Stop
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; PACKAGE: dired+                     ;;
@@ -160,7 +162,7 @@ by Prelude.")
 
 ;; -----------------------------------------------------------------------------
 ;; 初始化猫咪
-(require 'init-cat)
+;;(require 'init-cat)
 
 ;; -----------------------------------------------------------------------------
 ;; 添加 ibuffer-vc 特性
@@ -184,16 +186,10 @@ by Prelude.")
 ;;----------------------------------------------------------------------------
 ;; Show matching parens
 ;;----------------------------------------------------------------------------
-;(show-paren-mode 1)
+(show-paren-mode 1)
 
-;; 添加 yasnippet
-(require 'init-yasnippet)
-
-;; 添加 auto-complete
-(require 'init-auto-complete)
-
-;; 添加多光标 multiple-cursors
-(require 'init-multiple-cursors)
+;; 添加 key-guide
+(require 'init-guide-key)
 
 ;; 添加 goto-last-change
 (require 'init-goto-last-change)
@@ -201,21 +197,9 @@ by Prelude.")
 ;; 添加 minimap
 (require 'init-minimap)
 
-;; 添加 key-guide
-(require 'init-guide-key)
-;;
-
-;;
-;(require 'smart-mode-line)
-;(sml/setup)
-;;
-
-;;
 (require 'find-file-in-project)
 (global-set-key (kbd "C-x f") 'find-file-in-project)
-;
 
-;
 (setq aw-background t)
 
 
@@ -224,5 +208,27 @@ by Prelude.")
 (require 'init-nxml)
 
 (require 'init-gold-ratio)
+(setq whitespace-mode nil)
+(setq prelude-flyspell nil)
+(setq prelude-clean-whitespace-on-save nil)
 
-;;; init.el ends here
+;; 高亮 column 
+(require 'init-col-highlight)
+
+;; 添加 yasnippet
+(require 'init-yasnippet)
+;
+;; 添加 auto-complete
+(require 'init-auto-complete)
+
+;; 添加org
+(require 'init-org)
+;
+;;(require 'smart-mode-line)
+;;(sml/setup)
+;;;
+;;
+;
+;;(require 'init-java)
+;;;; init.el ends here
+;
