@@ -1,0 +1,10 @@
+1. C-=
+   
+   
+不错的资源 https://github.com/abo-abo/ace-window
+https://github.com/abo-abo/avy
+https://github.com/xuchunyang/easy-repeat.el
+
+
+
+avy

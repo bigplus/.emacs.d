@@ -1,42 +1,112 @@
-((("init-col-highlight" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("column-highlight-mode" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("col-highlight" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("highlight" .
-   [0 0 0 0 0 1 0 0 0])
-  ("set" .
+((("dark" .
+   [1 0 0 0])
+  ("SH_THEME" .
+   [0 0 0 1 0 0 0 0])
+  ("files" .
+   [1 0 0 0 0])
+  ("number" .
+   [1 0 0 0 0 0])
+  ("rename" .
+   [1 0 0 0 0 0])
+  ("ren" .
    [1 0 0])
-  ("s" .
-   [1])
-  ("c" .
+  ("cat" .
+   [1 0 0])
+  ("the" .
+   [1 0 0])
+  ("-lt" .
+   [1 0 0])
+  ("com" .
+   [1 0 0])
+  ("v" .
    [2])
-  ("column" .
-   [2 0 0 0 0 0])
-  ("whitespace-mode" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("require" .
-   [0 0 1 5 0 0 4])
-  ("init-yasnippet" .
-   [0 0 0 0 0 0 0 2 0 0 0 0 0 0])
-  ("provide" .
-   [0 0 0 1 2 0 1])
-  ("re" .
-   [3 0])
-  ("bindings--define-key" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("init-fill-column-indicator" .
-   [0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("init-java" .
-   [1 0 0 0 0 0 0 0 0])
-  ("setq" .
-   [2 0 0 0])
-  ("prelude-flyspell" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("t" .
+  ("varchar" .
+   [11 22 0 0 1 0 0])
+  ("init-paredit" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("init-ace-jump-helm-line" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("p" .
    [1])
+  ("n" .
+   [1])
+  ("load-prefer-newer" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("highlight-current-line-on" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("highlight-current-line-minor-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("a" .
+   [2])
+  ("init-comment" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("init-org" .
+   [1 0 0 0 0 0 0 0])
   ("nil" .
    [1 0 1])
-  ("init-org" .
-   [1 0 0 0 0 0 0 0])))
+  ("t" .
+   [1])
+  ("prelude-flyspell" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("setq" .
+   [3 0 0 0])
+  ("init-java" .
+   [1 0 0 0 0 0 0 0 0])
+  ("init-fill-column-indicator" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bindings--define-key" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("re" .
+   [3 0])
+  ("provide" .
+   [0 0 0 1 2 0 1])
+  ("init-yasnippet" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("require" .
+   [0 0 2 5 0 0 9])
+  ("whitespace-mode" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("column" .
+   [2 0 0 0 0 0])
+  ("c" .
+   [3])
+  ("s" .
+   [1])
+  ("set" .
+   [1 0 0])
+  ("highlight" .
+   [0 0 0 0 0 1 0 0 0])
+  ("col-highlight" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("column-highlight-mode" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("init-col-highlight" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("global-centered-cursor-mode" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("init-highlight-current-line" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("l" .
+   [1])
+  ("i" .
+   [2])
+  ("init-jump2" .
+   [0 0 0 0 0 0 1 1 0 0])
+  ("init-rebind" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("o" .
+   [1])
+  ("imp" .
+   [0 0 1])
+  ("datetime" .
+   [0 0 0 0 1 0 0 0])
+  ("while" .
+   [0 0 1 0 0])
+  ("True" .
+   [0 1 0 0])
+  ("yesStr" .
+   [0 0 1 0 0 0])
+  ("fileName" .
+   [1 1 0 0 0 1 0 0])
+  ("sml/setup" .
+   [0 0 0 0 0 0 0 0 1])))

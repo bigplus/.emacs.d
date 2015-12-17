@@ -7,6 +7,8 @@
         helm-M-x
         helm-confirm-and-exit-minibuffer
         kill-region
+        org-delete-char
+        org-self-insert-command
         prelude-move-beginning-of-line
         ))
 

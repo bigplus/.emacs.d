@@ -1,0 +1,113 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/yp-tc-m-2505/org/bak/" . "org-info-js/")
+ ("/Users/yp-tc-m-2505/org/" . "bigdata/")
+ ("/Users/yp-tc-m-2505/.emacs.d/site-lisp/yasnippet/" . "snippets/")
+ ("/Users/yp-tc-m-2505/.emacs.d/site-lisp/" . "window-numbering.el/")
+ ("/Users/yp-tc-m-2505/.emacs.d/" . "site-lisp/")
+ ("/Users/" . "yp-tc-m-2505/")
+ ("/Users/yp-tc-m-2505/" . "todo/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/yp-tc-m-2505/org/"
+ "/Users/yp-tc-m-2505/org/bigdata/"
+ "/Users/yp-tc-m-2505/"
+ "/Users/yp-tc-m-2505/todo/"
+ "/Users/yp-tc-m-2505/org/others/"
+ "/Users/yp-tc-m-2505/org/jerry/"
+ "/Users/yp-tc-m-2505/Desktop/"
+ "/Users/yp-tc-m-2505/.emacs.d/site-lisp/window-numbering.el/"
+ "/Users/yp-tc-m-2505/org/algo/"
+ "/Users/yp-tc-m-2505/org/css/"
+ "/Users/yp-tc-m-2505/org/js/"
+ "/Users/yp-tc-m-2505/org/org-template/"
+ "/Users/yp-tc-m-2505/org/bak/org-info-js/"
+ "/Users/yp-tc-m-2505/org/img/"
+ "/Users/yp-tc-m-2505/.emacs.d/site-lisp/yasnippet/snippets/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "todo.org"
+ "需求分析案例之查询.org"
+ "hbase-problem-set.org"
+ ".emacs"
+ "项目管理.org"
+ "基于zookeeper实现HA.org"
+ "auto-toString.org"
+ "query-platform-design.org"
+ "HBase查询设计.org"
+ "es-arch.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/yp-tc-m-2505/" (21931 48468 0 0) "WebstormProjects/" "var/" "todo/" "storm-trident-tutorial/" "setuptools-7.0.zip" "settings.xml" "PycharmProjects/" "public_html/" "Public/" "Pouring" "Pictures/" "percol.zsh" "path/" "Patching" "org/" "netty-3.9.0.Final.jar" "Music/" "Movies/" "Makefile" "make" "log4j.xml" "Library/" "laji/" "Installing" "incr-0.2.zsh" "ELETE" "Downloads/" "Downloading" "Documents/" "Desktop/" "configure" "config.status" "config.log" "config.h" "clj-project/" "Caveats" "bin/" "bash_profile" "baiduyun/" "backup/" "auto-fu.zsh" "Applications/" "AndroidStudioProjects/" "all.txt" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zinc/" ".zcompdump-yp-tc-m-2505的MacBook Air-5.0.5" ".zcompdump-yp-tc-m-2505的MacBook Air-5.0.2" ".zcompdump" ".WebStorm10/" ".viminfo" ".vim/" ".Trash/" ".subversion/" ".sts/" ".ssh/" ".scala_history" ".sbt/" ".rediscli_history" ".python27_compiled/" ".pkglist" ".percol.d/" ".org-timestamps/" ".oh-my-zsh/" ".nbprofiler/" ".mysql_history" ".mavenrc" ".matplotlib/" ".m2/" ".local/" ".lesshst" ".lein/" ".jmc/" ".ivy2/" ".ipython/" ".IntelliJIdea14/" ".idea-build/" ".htoprc" ".hgignore_global" ".gradle/" ".gitignore_global" ".gitconfig" ".emacs~" ".emacs.d_starter_kit/" ".emacs.d_prucell/" ".emacs.d_my/" ".emacs.d_final/" ".emacs.d/" ".emacs" ".eclipse/" ".DS_Store" ".cups/" ".config/" ".CFUserTextEncoding" ".bash_profile" ".bash_history" ".backup/" ".ant/" ".android/" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/" (21931 17272 0 0) "升职.org" "xxx" "xx.txt" "xx.tt" "ttt.org" "tt.py" "todo.org" "tmp.org" "static_files/" "sitemap.org" "simple.tex" "others/" "org-template/" "org-problem-solved.org" "oo.txt" "oo.tt" "mybabisxml.xml" "my-github.org" "learn-emacs-key.txt" "js/" "jerry/" "java-tmp3.java" "java-tmp2.java" "java-tmp1.java" "index.org" "img/" "guide.org_archive" "fonts/" "event-driven.org" "css/" "core.clj" "commands.org" "bigdata/" "algo/" "abc.org" "aa.org" "aa" "24.org" ".xx.tt.swp" ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/bigdata/" (21931 17271 0 0) "项目管理.org" "需求分析案例之查询.org" "基于zookeeper实现HA.org" "分布式和集群的区别.org" "why-we-use-bulkload.org" "thrift-cook.org" "storm简介.org" "standalone-app.org" "sql_info.org" "sql-backup.org" "show-sql.org" "show-sql.html" "query-platform-design.tex" "query-platform-design.org" "query-platform-design.html" "query-iterator.org" "query-iterator.html" "query-desing-2015-02-10.org" "query-desing-2015-02-10.html" "org-template/" "no-tbl-dic-stat.org" "kafka2hbase.org" "js/" "img/" "how-to-code-map-red-on-hbase.org" "HBase查询设计.org" "hbase-problem-set.org" "hbase-problem-set.html" "hbase-es-query.org" "hbase-es-query.html" "hbase-es-indexer.org" "hbase-bulkload.org" "guide.org" "fonts/" "es-使用.org" "es-river.org" "es-river.html" "es-plugins.org" "es-plugins.html" "es-plugin-develop.org" "es-design-priciple.org" "es-cluster.org" "es-arch.org" "es-arch.html" "dba-backup-policy.org" "css/" "auto-toString.org" ".DS_Store" ".#query-platform-design.org" ".#hbase-bulkload.org" "#query-platform-design.org#" "#hbase-bulkload.org#" "../" "./")
+
+ ("/Users/yp-tc-m-2505/Desktop/" (21930 34345 0 0) "日 常 报 销 单_files/" "招商证券全能版.app/" "商户后台查询/" "不得破坏/" "zzz/" "zk-server/" "yqueue/" "ycp/" "xxxxxxxxxxx/" "workspace-jerrry-others/" "workdir/" "utils/" "update/" "upan/" "tttttttttttttttttt/" "torchwood/" "Tomcat/" "test/" "stress-test/" "storm-starter/" "statshtable/" "sqlstat/" "sqlautoreview/" "spark-1.2.1-bin-hadoop2.4/" "server-me/" "scala-test/" "Sample Tunnelblick VPN Configuration/" "Remote Desktop Connection.app/" "pysonar2/" "phoenix-3.3.1-src/" "phoenix/" "opensource/" "OpenHFT   Java Thread Affinity - OpenHFT_files/" "mysql2posdb-util/" "mybatisdemo/" "mr/" "mdrill/" "mbassador/" "learn-java/" "learn-es/" "kaifang_db/" "kafka2hbase.docx" "kafka/" "js/" "jqueue/" "jetty/" "jerrydata/" "jerry/" "html/" "his_archive/" "HiJerry/" "hibernatedemo/" "hello/" "hclient/" "hbase-1.0.1.1/" "hadoop_files/" "hadoop-2.6.0/" "event/" "etl/" "esx/" "esper-demo-nuclear/" "esper/" "es-river/" "env/" "elasticsearch-sql/" "elasticsearch-1.4.0/" "eclipse C/" "eclipse/" "doggie-engine/" "doggie/" "db2tohbase/" "db2capture/" "datastructure/" "cwl/" "curator/" "csdn-esper/" "crawler/" "cmatrix.png" "classes/" "chomper/" "bulkload/" "books/" "bin/" "bak/" "asynchbase/" "apache-tomcat-7.0.47/" "aaaaa/" "aaa/" "521fruit/" ".localized" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/algo/" (21928 53555 0 0) "最小差值的划分.org" "SimHash文本去重.org" "problem1.1-longest_plateau.org" "org-template/" "js/" "img/" "fonts/" "css/" "binary-heap.org" ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/jerry/" (21928 53556 0 0) "简单压力测试.org" "zsh.org" "zsh-plugin-autojump.org" "zsh-plugin-auto-fu.org" "zsh-config.org" "window-numbering-mode.org~" "window-numbering-mode.org" "why-work.org" "upgrade-git-on-mac.org" "SimpleHTTPServerWithUpload.py" "recently-visited-files.org" "org-template/" "mq-infos.org~" "mq-infos.org" "move-current-line-up-or-down.org~" "move-current-line-up-or-down.org" "move-current-line-up-or-down.html~" "move-current-line-up-or-down.html" "mac-terminal-长连接.org" "linux-command.org" "junit-1.org" "js/" "joining-lines.org" "img/" "ido-vertical-mode.org" "htop-install.org" "go-to-column.org~" "go-to-column.org" "fonts/" "emacs-learn.org" "emacs-1.org" "eat.org" "distributed-crawler.org" "css-123.org" "css/" "clojure-1.org" ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/others/" (21928 53556 0 0) "sharding_for_DBA.org" "org-template/" "mysql-杂.org" "js/" "img/" "fonts/" "database-online.org" "css/" "all-address.org~" "all-address.org" "all-address.html~" "all-address.html" ".DS_Store" "../" "./")
+
+ ("/Users/" (21735 20503 0 0) "yp-tc-m-2505/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/yp-tc-m-2505/.emacs.d/site-lisp/window-numbering.el/" (21928 47772 0 0) "window-numbering.el" "tests.el" "README.md" ".travis.yml" ".gitignore" ".git/" ".dir-locals.el" "../" "./")
+
+ ("/Users/yp-tc-m-2505/todo/" (21703 9164 0 0) "15-01.org" "../" "./")
+
+ ("/Users/yp-tc-m-2505/Desktop/test/" (21707 20410 0 0) "s1.sh" "p1.py" "../" "./")
+
+ ("/Users/yp-tc-m-2505/Documents/" (21650 29242 0 0) "workspace-C/" "workspace-android-new/" "workspace-android/" "workspace/" "Untitled.pages/" "thrift-0.9.1 (2).tar.gz" "thrift-0.9.1/" "Terminal Saved Output" "RDC Connections/" "libevent-2.1.4-alpha.tar.gz" "libevent-2.1.4-alpha/" "boost_1_56_0.tar.gz" "boost_1_56_0/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/img/" (21667 20393 0 0) "zookeeper.png" "storm.png" "simhash.png" "simhash.gif" "simhash-threhold.png" "Screen Shot 2014-11-18 at 3.53.40 PM.png" "query-strategy.png" "query-design2.png" "query-design1.png" "query-design.png" "query-design-diff.png" "query-design-1.png" "mywork2.png" "long.png" "jerry.png" "jerry.jpg" "jerry-org.png" "jerry-2.jpeg" "hbase-arch.png" "emacs23-org.js.org.png" "03.png" "02.png" "01.png" "../" "./")
+
+ ("/Users/yp-tc-m-2505/.backup/" (21663 63305 0 0) "!Users!yp-tc-m-2505!org!jerry!todo-list.org~" "../" "./")
+
+ ("/Users/yp-tc-m-2505/.bakup/" (21663 37011 0 0) "../" "./")
+
+ ("/Users/yp-tc-m-2505/.emacs.d/site-lisp/" (21657 30074 0 0) "yasnippet-0.8.0/" "window-numbering.el/" "window-number.el" "smex/" "move-text/" "ido-vertical-mode.el/" "htmlize/" "helm/" "emacs-iedit/" "company-0.8.7/" "color-theme-6.6.0/" "auctex-11.88/" "../" "./")
+
+ ("/Users/yp-tc-m-2505/.emacs.d/" (21657 29524 0 0) "smex-items" "site-lisp/" "recentf~" "recentf" "ido.last~" "ido.last" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/org-template/" (21656 56766 0 0) "level-1.orgcss~" "level-1.orgcss" "level-0.orgcss~" "level-0.orgcss" ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/js/" (21656 56766 0 0) "org-keys.js" "org-keys-minified.js" "org-info.js" "org-info-src.js" "org-info-jq.js" "npm.js" "jquery.min.js" "ga.js" "bootstrap.min.js" "bootstrap.js" ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/css/" (21656 56766 0 0) "org.css~" "org.css" "org-manual.css" "extra.css" "bootstrap.min.css" "bootstrap.css.map" "bootstrap.css" "bootstrap-theme.min.css" "bootstrap-theme.css.map" "bootstrap-theme.css" ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/public_html/" (21656 65370 0 0) ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/bak/org-info-js/" (21652 18653 0 0) "TODO.org" "stylesheet.css" "sed.txt" "org-slides/" "org-keys.js" "org-keys-minified.js" "org-info.js" "org-info-src.js" "org-info-jq.js" "notes.org" "notes.html" "Makefile" "index.org" "index.html~" "index.html" "img/" "hacking.org" "hacking.html~" "hacking.html" "changes.org" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/yp-tc-m-2505/org/bak/" (21652 15284 0 0) "org-info-js/" "../" "./")
+
+ ("/Users/yp-tc-m-2505/.emacs.d/site-lisp/yasnippet/snippets/" (21646 40044 0 0) "yaml-mode/" "udev-mode/" "typerex-mode/" "tuareg-mode/" "text-mode/" "sql-mode/" "snippet-mode/" "sh-mode/" "scala-mode/" "ruby-mode/" "rst-mode/" "rename_add_contr.py" "README.md" "python-mode/" "prog-mode/" "perl-mode/" "org-mode/" "octave-mode/" "nxml-mode/" "nsis-mode/" "nesc-mode/" "ned-mode/" "markdown-mode/" "makefile-mode/" "makefile-gmake-mode/" "makefile-bsdmake-mode/" "makefile-automake-mode/" "m4-mode/" "lua-mode/" "lisp-interaction-mode/" "LICENSE" "latex-mode/" "js2-mode/" "js-mode/" "java-mode/" "html-mode/" "haskell-mode/" "groovy-mode/" "go-mode/" "git-commit-mode/" "fundamental-mode/" "f90-mode/" "erlang-mode/" "erc-mode/" "ensime-mode/" "enh-ruby-mode/" "emacs-lisp-mode/" "css-mode/" "csharp-mode/" "cpp-omnet-mode/" "cperl-mode/" "CONTRIBUTORS.txt" "conf-unix-mode/" "cmake-mode/" "chef-mode/" "cc-mode/" "c-mode/" "c++-mode/" "applescript-mode/" "antlr-mode/" ".nosearch" ".gitignore" ".git" "../" "./")
+
+ ("/Users/yp-tc-m-2505/.emacs.d/site-lisp/yasnippet/" (21641 17384 0 0) "yasnippet.el" "yasnippet-tests.el" "yasnippet-debug.el" "yasmate/" "snippets/" "README.mdown" "Rakefile" "doc/" ".travis.yml" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/yp-tc-m-2505/.emacs.d/auto-save-list/" (21646 38735 0 0) ".saves-18680-localhost~" "../" "./")
+
+ ("/usr/" (21500 41366 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "LANDesk/" "include/" "bin/" "../" "./")
+
+ ("/usr/local/" (21638 33457 0 0) "var/" "SUPPORTERS.md" "share/" "sbin/" "README.md" "opt/" "LICENSE.txt" "Library/" "libexec/" "lib/" "include/" "homebrew/" "etc/" "CONTRIBUTING.md" "CODEOFCONDUCT.md" "Cellar/" "bin/" ".yardopts" ".gitignore" ".git/" "../" "./")
+
+ ("/usr/local/Cellar/" (21640 26508 0 0) "xz/" "wget/" "w3m/" "tree/" "pv/" "pkg-config/" "openssl/" "mtr/" "libtool/" "libevent/" "giter8/" "gettext/" "emacs/" "boost/" "bdw-gc/" "automake/" "autoconf/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/" (21646 16726 0 0) "help" "24.4/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/24.4/" (21646 16909 0 0) "var/" "share/" "README" "libexec/" "INSTALL_RECEIPT.json" "homebrew.mxcl.emacs.plist" "Emacs.app/" "COPYING" "ChangeLog" "bin/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

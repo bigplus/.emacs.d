@@ -35,7 +35,7 @@
   (move-to-column column t))
 (global-set-key (kbd "M-g M-c") 'go-to-column)
 
-;; --------------------------------------------------------------------------------
+;; --------------f------------------------------------------------------------------
 ;;滚动页面时比较舒服，不要整页的滚动
 (setq scroll-step 1
       scroll-margin 3
@@ -85,6 +85,11 @@ occurence of CHAR."
           (search-backward (string char) nil nil )))))
   (setq unread-command-events (list last-input-event)))
 (global-set-key (kbd "C-x C-t") 'my-go-to-char)
-;; --------------------------------------------------------------------------------
+;; ---------
+
+;; 更改选中区域颜色
+;(set-face-attribute 'region nil :background "#666")
+(set-face-attribute 'region nil :background "yellow" :foreground "#666")
+;(set-face-attribute 'region nil :background "#666" :foreground "#ffffff")
 
 (provide 'init-custom)
