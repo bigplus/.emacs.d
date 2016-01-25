@@ -126,4 +126,8 @@
 (add-to-list 'load-path "/Users/yp-tc-m-2505/.emacs.d/plugins/org-asciidoc/")
 (require 'ox-asciidoc)
 
+;; -------- test --------
+;(require 'spaceline-config)
+;(spaceline-spacemacs-theme)
+
 (provide 'my-init-config)

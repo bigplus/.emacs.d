@@ -1,2 +1,9 @@
 quit
 python tt.py 
+ll
+ls -ah
+mci
+mvn clean install
+clean
+clr
+mvn clean install
