@@ -132,8 +132,8 @@ by Prelude.")
  ;; greet the use with some useful tip
  (run-at-time 5 nil 'prelude-tip-of-the-day))
 
-
 (require 'my-init-config)
+
 ;
 ;;(require 'smart-mode-line)
 ;;(sml/setup)
@@ -141,5 +141,5 @@ by Prelude.")
 ;;
 ;
 ;;(require 'init-java)
-;;;; init.el ends here
-;
+
+;;; init.el ends here

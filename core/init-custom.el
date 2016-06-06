@@ -92,4 +92,21 @@ occurence of CHAR."
 (set-face-attribute 'region nil :background "yellow" :foreground "#666")
 ;(set-face-attribute 'region nil :background "#666" :foreground "#ffffff")
 
+;; --------------------------------------------------------------------------------- 快速copy 当前行 ------------------------------------------------
+;; ------------- https://curiousprogrammer.wordpress.com/2009/02/11/simple-emacs-shortcut/ ---------------
+(defun duplicate-current-line ()
+  (interactive)
+  (beginning-of-line nil)
+  (let ((b (point)))
+    (end-of-line nil)
+    (copy-region-as-kill b (point)))
+  (beginning-of-line 2)
+  (open-line 1)
+  (yank)
+  (back-to-indentation))
+
+(global-set-key "\C-cd" 'duplicate-current-line)
+;; --------------------------------------------------------------------------------- 快速copy 当前行 ------------------------------------------------
+
+
 (provide 'init-custom)

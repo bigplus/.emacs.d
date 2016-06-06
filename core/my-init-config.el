@@ -130,4 +130,6 @@
 ;(require 'spaceline-config)
 ;(spaceline-spacemacs-theme)
 
+(require 'init-indent-guide)
+
 (provide 'my-init-config)
