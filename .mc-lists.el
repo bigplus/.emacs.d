@@ -3,6 +3,7 @@
 
 (setq mc/cmds-to-run-for-all
       '(
+        avy-goto-word-or-subword-1
         easy-kill
         helm-M-x
         helm-confirm-and-exit-minibuffer
